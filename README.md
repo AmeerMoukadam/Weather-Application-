@@ -4,5 +4,5 @@
 # Languages
 Javascript, HTML, CSS
 
-#Tools
+# Tools
 Darksky API, SKYCONS, VS Code
