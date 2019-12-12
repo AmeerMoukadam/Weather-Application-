@@ -1,3 +1,8 @@
 # Weather Application 
  Weather app using data from the DarkSky API.
- This app was built with vanilla javascript.
+ 
+# Languages
+Javascript, HTML, CSS
+
+#Tools
+Darksky API, SKYCONS, VS Code
