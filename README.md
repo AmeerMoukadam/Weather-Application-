@@ -5,4 +5,4 @@ A Weather application created with vanilla JavaScript. This program consumes wea
 JavaScript, HTML, CSS
 
 # Tools
-Darksky API, SKYCONS, VS Code, Prettier, Live Server
+Darksky API, SKYCONS, VSCode, Prettier, ESLint, Live Server
